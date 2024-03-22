@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **NextJS, React**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-latest-two.vercel.app/](https://portfolio-latest-two.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sashikumar.dev/](https://sashikumar.dev/)
 
-- 💬 Ask me about **Angular, C#, TypeScript, Javascript, Dotnet**
+- 💬 Ask me about **Angular, C#, TypeScript, Javascript, Dotnet, React**
 
 - 📫 How to reach me **yshashi30@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13-jX3mhSy90OzrBI5MhsqS6aZJPn426Q/view?usp=share_link](https://drive.google.com/file/d/13-jX3mhSy90OzrBI5MhsqS6aZJPn426Q/view?usp=share_link)
+- 📄 Know about my experiences [Sashikumar CV](https://cv.sashikumar.dev)
 
 - ⚡ Fun fact **I'm a gamer and love playing video games in my free time. My all-time favorite game is PUBG**
 
