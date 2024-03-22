@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS, React**
 
-- 👨‍💻 All of my projects are available at [https://sashikumar.dev/](https://sashikumar.dev/)
+- 👨‍💻 My Portfolio [https://sashikumar.dev/](https://sashikumar.dev/)
 
 - 💬 Ask me about **Angular, C#, TypeScript, Javascript, Dotnet, React**
 
