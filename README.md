@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yshashi30" target="blank"><img src="https://img.shields.io/twitter/follow/yshashi30?logo=twitter&style=for-the-badge" alt="yshashi30" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS, React**
+- 🌱 I’m currently learning **GO, AZURE**
 
 - 👨‍💻 My Portfolio [https://sashikumar.dev/](https://sashikumar.dev/)
 
