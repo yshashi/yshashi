@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sashikumar Yadav</h1>
-<h3 align="center">A passionate Full Stack Developer with 5 years of experience in developing web applications.</h3>
+<h3 align="center">A passionate Full Stack Developer with 6 years of experience in developing web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yshashi&label=Profile%20views&color=0e75b6&style=flat" alt="yshashi" /> </p>
 
