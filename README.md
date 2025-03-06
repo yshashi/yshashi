@@ -35,4 +35,72 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yshashi&" alt="yshashi" /></p>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.5%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 411.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 132 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 88 Public Repositories 
+ > 
+> 🔑 102 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                129 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+🌆 Daytime                760 commits         ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+🌃 Evening                945 commits         █████████░░░░░░░░░░░░░░░░   37.28 % 
+🌙 Night                  701 commits         ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   419 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Tuesday                  256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Wednesday                272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Thursday                 287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Friday                   220 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Saturday                 477 commits         █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+Sunday                   604 commits         ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               101 repos           █████████████░░░░░░░░░░░░   53.72 % 
+C#                       31 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+HTML                     26 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+JavaScript               15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+```
+
+
+
+
+ Last Updated on 06/03/2025 06:40:16 UTC
 <!--END_SECTION:waka-->
