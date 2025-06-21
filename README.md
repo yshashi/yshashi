@@ -45,8 +45,6 @@
 
 > 📦 424.9 kB Used in GitHub's Storage 
  > 
-> 🏆 331 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 93 Public Repositories 
@@ -102,5 +100,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2025 00:31:57 UTC
+ Last Updated on 21/06/2025 00:32:09 UTC
 <!--END_SECTION:waka-->
