@@ -35,7 +35,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yshashi&" alt="yshashi" /></p>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.3%20million%20lines%20of%20code-blue)
 
@@ -43,13 +45,13 @@
 
 > 📦 428.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 405 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 98 Public Repositories 
+> 📜 99 Public Repositories 
  > 
-> 🔑 107 Private Repositories 
+> 🔑 106 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -100,5 +102,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2025 00:29:25 UTC
+ Last Updated on 31/08/2025 00:34:28 UTC
 <!--END_SECTION:waka-->
