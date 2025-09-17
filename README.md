@@ -35,9 +35,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yshashi&" alt="yshashi" /></p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.4%20million%20lines%20of%20code-blue)
 
@@ -53,42 +51,6 @@
  > 
 > 🔑 107 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                157 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-🌆 Daytime                942 commits         ███████░░░░░░░░░░░░░░░░░░   28.86 % 
-🌃 Evening                1228 commits        █████████░░░░░░░░░░░░░░░░   37.62 % 
-🌙 Night                  937 commits         ███████░░░░░░░░░░░░░░░░░░   28.71 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   520 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Tuesday                  340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Wednesday                329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-Thursday                 371 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Friday                   280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Saturday                 616 commits         █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Sunday                   808 commits         ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -102,5 +64,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2025 00:29:51 UTC
+ Last Updated on 17/09/2025 00:30:53 UTC
 <!--END_SECTION:waka-->
