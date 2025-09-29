@@ -35,34 +35,72 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yshashi&" alt="yshashi" /></p>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 431.3 kB Used in GitHub's Storage 
+> 📦 431.5 kB Used in GitHub's Storage 
  > 
-> 🏆 449 Contributions in the Year 2025
+> 🏆 459 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 99 Public Repositories 
  > 
-> 🔑 108 Private Repositories 
+> 🔑 109 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                157 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+🌆 Daytime                945 commits         ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+🌃 Evening                1239 commits        █████████░░░░░░░░░░░░░░░░   37.71 % 
+🌙 Night                  945 commits         ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   520 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Tuesday                  340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Wednesday                330 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Thursday                 377 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Friday                   280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Saturday                 618 commits         █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+Sunday                   821 commits         ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               117 repos           ██████████████░░░░░░░░░░░   56.52 % 
-C#                       31 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-HTML                     25 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-JavaScript               19 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+TypeScript               117 repos           ██████████████░░░░░░░░░░░   56.25 % 
+HTML                     25 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+JavaScript               19 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Nix                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 
 
 
 
- Last Updated on 28/09/2025 00:33:58 UTC
+ Last Updated on 29/09/2025 00:31:58 UTC
 <!--END_SECTION:waka-->
