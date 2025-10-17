@@ -35,6 +35,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yshashi&" alt="yshashi" /></p>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.5%20million%20lines%20of%20code-blue)
@@ -107,5 +109,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yshashi/yshashi/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2025 00:32:14 UTC
+ Last Updated on 17/10/2025 00:32:26 UTC
 <!--END_SECTION:waka-->
