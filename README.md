@@ -37,7 +37,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.7%20million%20lines%20of%20code-blue)
 
@@ -95,9 +95,9 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               121 repos           ██████████████░░░░░░░░░░░   56.28 % 
-HTML                     27 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-JavaScript               20 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+TypeScript               121 repos           ██████████████░░░░░░░░░░░   56.54 % 
+HTML                     27 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+JavaScript               20 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 Nix                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
@@ -109,5 +109,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yshashi/yshashi/main/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2025 00:32:46 UTC
+ Last Updated on 21/12/2025 00:36:37 UTC
 <!--END_SECTION:waka-->
