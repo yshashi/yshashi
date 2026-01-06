@@ -35,9 +35,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yshashi&" alt="yshashi" /></p>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.75%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.75%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -51,6 +53,45 @@
  > 
 > 🔑 119 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                187 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+🌆 Daytime                995 commits         ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+🌃 Evening                1308 commits        █████████░░░░░░░░░░░░░░░░   36.30 % 
+🌙 Night                  1113 commits        ████████░░░░░░░░░░░░░░░░░   30.89 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   543 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Tuesday                  366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Wednesday                346 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Thursday                 412 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Friday                   325 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Saturday                 741 commits         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Sunday                   870 commits         ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -68,5 +109,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yshashi/yshashi/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 00:39:42 UTC
+ Last Updated on 06/01/2026 00:35:56 UTC
 <!--END_SECTION:waka-->
