@@ -61,11 +61,8 @@
 
 ## 📺 Latest YouTube Videos
 
-<div align="center">
-  <a href="https://www.youtube.com/@lets.program" target="_blank">
-    <img src="./assets/youtube-cards.svg" alt="Latest YouTube Videos" width="100%" />
-  </a>
-</div>
+<!-- YOUTUBE-CARDS:START -->
+<!-- YOUTUBE-CARDS:END -->
 
 ---
 

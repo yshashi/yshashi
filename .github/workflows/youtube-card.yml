@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate YouTube Cards
-        uses: yshashi/youtube-cards@v1
+        uses: yshashi/youtube-cards@v2
         with:
           channel_id: 'UCW4PLi-ObJt3m6YTSEQY3gw'
           output_path: 'assets/youtube-cards.svg'
