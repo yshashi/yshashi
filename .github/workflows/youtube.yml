@@ -13,11 +13,11 @@ jobs:
       - name: Update README
         uses: GalvinPython/youtube-readme@1.0
         with:
-          youtube_channel_id: 'YOUR_CHANNEL_ID'  # Find in YouTube Studio
+          youtube_channel_id: 'UCW4PLi-ObJt3m6YTSEQY3gw'  # Find in YouTube Studio
           readme_file_path: 'README.md'
       - name: Commit changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
