@@ -53,8 +53,7 @@
 ---
 
 ## 📺 Latest YouTube Videos
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-<!-- YOUTUBE-VIDEOS-LIST:END -->
+<!-- YOUTUBE-VIDEOS-LIST:START -->[Implement MediatR pattern for Session endpoint | TalkPulse Ep.4](https://www.youtube.com/watch?v=Wrjh00os8Fc)[Building Real API Slices With MediatR Pattern in .NET 10 | TalkPulse Ep.3](https://www.youtube.com/watch?v=TPXuxCVZebE)[Domain Entities + Vertical Slice Architecture in .NET 10 — TalkPulse Live Build Ep.2](https://www.youtube.com/watch?v=GBVKKKwdh-w)[Building a Real-Time Live Polling App From Scratch — .NET 10 + Aspire + Angular 21 | TalkPulse Ep.1](https://www.youtube.com/watch?v=1nD8oRCNcPI)[Welcome to the kickoff stream! 🚀](https://www.youtube.com/watch?v=XtfnS_mUv8s)<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
 
