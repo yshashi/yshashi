@@ -3,8 +3,8 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Sashikumar+Yadav+👋;Full+Stack+Developer+%7C+8%2B+Years+XP;Angular+%7C+React+%7C+Node.js+%7C+.NET;Content+Creator+%40+lets.program+🎬;Angular+Sofia+Meetup+Organizer+🇧🇬;Currently+Exploring+GoLang+%26+Agentic+AI+🤖" alt="Typing SVG" />
+  <a href="https://youtube.com/@letsprogram30" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hey+there!+I%27m+Sashikumar+Yadav+%F0%9F%91%8B;Full+Stack+Developer+%7C+8%2B+Years+XP;Angular+%7C+React+%7C+Node.js+%7C+.NET;Content+Creator+%40+lets.program+%F0%9F%8E%AC;Angular+Sofia+Meetup+Organizer+%F0%9F%87%A7%F0%9F%87%AC;Currently+Exploring+GoLang+%26+Agentic+AI+%F0%9F%A4%96;YouTube+Creator+%40+letsprogram30+%F0%9F%93%BA" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 <!-- Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yshashi&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+    <img src="https://github-trophies.vercel.app/?username=yshashi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" alt="trophies" />
   </a>
 </p>
 
