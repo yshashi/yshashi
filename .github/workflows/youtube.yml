@@ -1,4 +1,4 @@
-name: Update README with YouTube Videos
+name: 📺 Update YouTube Videos
 
 on:
   schedule:
@@ -10,11 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Update README
-        uses: GalvinPython/youtube-readme@1.0
+
+      - name: Fetch latest YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          youtube_channel_id: 'UCW4PLi-ObJt3m6YTSEQY3gw'  # Find in YouTube Studio
-          readme_file_path: 'README.md'
+          comment_tag_name: "YOUTUBE-VIDEOS-LIST"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCW4PLi-ObJt3m6YTSEQY3gw"
+          max_post_count: 5
+          readme_path: README.md
+          template: "[$title]($url)"
+
       - name: Commit changes
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -22,5 +27,5 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git commit -m "chore: update YouTube videos" || echo "No changes"
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update YouTube videos [skip ci]"
           git push
